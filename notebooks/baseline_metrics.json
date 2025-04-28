@@ -1,0 +1,5 @@
+{
+    "plant_identification_accuracy": 51.24999999999999,
+    "disease_diagnosis_accuracy": 18.75,
+    "total_samples": 80
+}
