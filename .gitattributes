@@ -1,2 +1,0 @@
-data/images-dataset.rar filter=lfs diff=lfs merge=lfs -text
-models/qwen2vl_lora_finetuned/adapters/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
