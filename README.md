@@ -38,7 +38,8 @@ The dataset used is a subset of the Crop Disease Domain Multimodal (CDDM) datase
 
 The Crop Disease Diagnostician is deployed through a simple web application where farmers can upload images and enter queries to receive disease diagnosis suggestions. Below is a screenshot of the web application interface:
 
-![Web Application Screenshot](../images/webapp.png)
+![Web Application](./images/webapp.png)
+
 
 The web app provides a user-friendly interface for farmers to interact with the system, allowing them to easily upload images of their crops and ask diagnostic questions.
 
